@@ -1,6 +1,6 @@
 # Linked List:
 
-# Data Structure: Non-contiguousd
+# Data Structure: Non-contiguous
 # Memory Allocation: Typically allocated one by one to individual elements
 # Insertion/Deletion: Efficient
 # Access: Sequential 
@@ -196,4 +196,4 @@ while current is not None:
 # Actually current is now None.
 # Therefore:while current is not None => becomes false and the loop stops.   
 
- 
+#tomorrow see
