@@ -1,0 +1,59 @@
+
+                    DSA 2026
+                       │
+          ┌────────────┴────────────┐
+          │                         │
+      FOUNDATIONS              PROBLEM SOLVING
+          │                         │
+     Big O / Complexity              │
+          ↓                         │
+     Arrays & Strings               │
+          ↓                         │
+     Hashing / HashMap              │
+          ↓                         │
+     Two Pointers                   │
+          ↓                         │
+     Sliding Window                 │
+          ↓                         │
+     Prefix Sum                     │
+          │                         │
+          └──────────┬──────────────┘
+                     ↓
+              LINEAR DATA STRUCTURES
+                     │
+             Linked Lists
+                     ↓
+               Stack / Queue
+                     ↓
+                  Heap
+                     ↓
+             Binary Search
+                     ↓
+          SORTING ALGORITHMS
+                     │
+                     ↓
+              TREES & BST
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+       Recursion            Backtracking
+          │                     │
+          └──────────┬──────────┘
+                     ↓
+                   GRAPHS
+                     │
+              BFS / DFS
+                     ↓
+          Dijkstra / Topological
+                     ↓
+                Union Find
+                     ↓
+             GREEDY ALGORITHMS
+                     ↓
+          DYNAMIC PROGRAMMING
+                     │
+             1D DP → 2D DP
+                     ↓
+          ADVANCED PROBLEM SOLVING
+                     ↓
+             MOCK INTERVIEWS
